@@ -1,13 +1,13 @@
 # GPT-3
 
-![NFT Marketplace](https://raw.githubusercontent.com/MwauratheAlex/portfolio_website/master/public/images/5.jpg)
+![NFT Marketplace](https://raw.githubusercontent.com/MwauratheAlex/portfolio_website/master/public/images/5.png)
 
 ## Introduction
 
 This is the repository for a fully responsive GPT-3 website/landing page with modern UI/UX following a Figma design built with React.
 
 <a href="https://gpt-3-mwaura.netlify.app/" target="_blank">
-    Visit Site To Download
+    Visit Site
 </a>
 
 ## Available Scripts
